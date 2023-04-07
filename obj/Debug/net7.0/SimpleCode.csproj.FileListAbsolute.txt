@@ -1,0 +1,15 @@
+C:\Users\ILYA\RiderProjects\SimpleCode\SimpleCode\bin\Debug\net7.0\SimpleCode.exe
+C:\Users\ILYA\RiderProjects\SimpleCode\SimpleCode\bin\Debug\net7.0\SimpleCode.deps.json
+C:\Users\ILYA\RiderProjects\SimpleCode\SimpleCode\bin\Debug\net7.0\SimpleCode.runtimeconfig.json
+C:\Users\ILYA\RiderProjects\SimpleCode\SimpleCode\bin\Debug\net7.0\SimpleCode.dll
+C:\Users\ILYA\RiderProjects\SimpleCode\SimpleCode\bin\Debug\net7.0\SimpleCode.pdb
+C:\Users\ILYA\RiderProjects\SimpleCode\SimpleCode\obj\Debug\net7.0\SimpleCode.csproj.AssemblyReference.cache
+C:\Users\ILYA\RiderProjects\SimpleCode\SimpleCode\obj\Debug\net7.0\SimpleCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ILYA\RiderProjects\SimpleCode\SimpleCode\obj\Debug\net7.0\SimpleCode.AssemblyInfoInputs.cache
+C:\Users\ILYA\RiderProjects\SimpleCode\SimpleCode\obj\Debug\net7.0\SimpleCode.AssemblyInfo.cs
+C:\Users\ILYA\RiderProjects\SimpleCode\SimpleCode\obj\Debug\net7.0\SimpleCode.csproj.CoreCompileInputs.cache
+C:\Users\ILYA\RiderProjects\SimpleCode\SimpleCode\obj\Debug\net7.0\SimpleCode.dll
+C:\Users\ILYA\RiderProjects\SimpleCode\SimpleCode\obj\Debug\net7.0\refint\SimpleCode.dll
+C:\Users\ILYA\RiderProjects\SimpleCode\SimpleCode\obj\Debug\net7.0\SimpleCode.pdb
+C:\Users\ILYA\RiderProjects\SimpleCode\SimpleCode\obj\Debug\net7.0\SimpleCode.genruntimeconfig.cache
+C:\Users\ILYA\RiderProjects\SimpleCode\SimpleCode\obj\Debug\net7.0\ref\SimpleCode.dll
